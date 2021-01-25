@@ -1,0 +1,6 @@
+{
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.languageServer": "Microsoft",
+  "python.pythonPath": "c:\\Users\\YUsetr\\OneDrive\\Desktop\\vsc flask mini project\\.venv\\Scripts\\python.exe"
+}
